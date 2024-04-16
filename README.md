@@ -19,7 +19,7 @@ Este projeto apresenta uma implementação do algoritmo de ordenação QuickSort
 
 ## Como usar
 
-1. Abra o código com o VSCode:
+1. Abra o código "Quicksort-tkinter-breakpoint.py" com o VSCode:
    
 ![Código aberto no VSCode](Imagens/codigo-vscode.jpeg)
 
