@@ -1,43 +1,31 @@
-# QuickSort
-
-Um simples visualizador de algoritmo de ordenação QuickSort implementado em Python utilizando Tkinter para a interface gráfica.
+# ENTREGÁVEL 2
 
 ## Descrição
 
-Este projeto apresenta uma implementação do algoritmo de ordenação QuickSort em Python, acompanhada de uma interface gráfica simples desenvolvida com Tkinter. O usuário pode inserir uma lista de números através de uma entrada e clicar em um botão para visualizar a lista ordenada pelo QuickSort.
+Este projeto apresenta uma implementação com interface Web (Front-end) para acessar e executar os algoritmos implementados
 
 ## Funcionalidades
 
-- Entrada de lista de números para ordenação.
+- Executar 6 diferentes códigos em 2 linguagens cada
 - Verificação de entrada válida.
-- Exibição da lista ordenada após a ordenação.
 
 ## Pré-requisitos
 
-- Python 3.x
-- Tkinter (normalmente incluído na instalação padrão do Python)
+- Download de todos os arquivos para sua máquina
 
 ## Como usar
 
-1. Abra o código "Quicksort-tkinter-breakpoint.py" com o VSCode:
+1. Faça o download de todos os arquivos presentes:
    
-![Código aberto no VSCode](Imagens/codigo-vscode.jpeg)
+![Arquivos](imagens/arquivos.jpg)
 
-2. Altere a opção de depuração:
+2. Abra o index principal
    
-![Alterar opção de depuração](Imagens/debug.jpeg)
+![Index](imagens/index.jpg)
 
-3. Símbolo correto do Debug:
+3. Aproveite o código xD
    
-![Símbolo DEBUG](Imagens/simbolo-correto.jpeg)
-
-4. Breakpoint adicionado na linha 13:
-   
-![Breakpoint linha 13](Imagens/breakpoint-linha-13.jpeg)
-
-5. Tkinter abrindo:
-   
-![Tkinter](Imagens/tkinter.jpeg)
+![HUB](imagens/hub.jpg)
 
 ## Contribuições
 
